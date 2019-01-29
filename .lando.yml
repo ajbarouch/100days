@@ -1,4 +1,4 @@
-name: '100'
+name: 100-days
 recipe: wordpress
 config:
   webroot: .
